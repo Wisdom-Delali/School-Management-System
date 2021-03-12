@@ -1,0 +1,6 @@
+<center>
+		<footer>
+		
+		</footer>
+</center>
+
